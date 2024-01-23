@@ -1,0 +1,14 @@
+C:\Users\OMISTAJA\source\repos\Plussaa tai Miinusta\Plussaa tai Miinusta\bin\Debug\net8.0\Plussaa tai Miinusta.exe
+C:\Users\OMISTAJA\source\repos\Plussaa tai Miinusta\Plussaa tai Miinusta\bin\Debug\net8.0\Plussaa tai Miinusta.deps.json
+C:\Users\OMISTAJA\source\repos\Plussaa tai Miinusta\Plussaa tai Miinusta\bin\Debug\net8.0\Plussaa tai Miinusta.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\Plussaa tai Miinusta\Plussaa tai Miinusta\bin\Debug\net8.0\Plussaa tai Miinusta.dll
+C:\Users\OMISTAJA\source\repos\Plussaa tai Miinusta\Plussaa tai Miinusta\bin\Debug\net8.0\Plussaa tai Miinusta.pdb
+C:\Users\OMISTAJA\source\repos\Plussaa tai Miinusta\Plussaa tai Miinusta\obj\Debug\net8.0\Plussaa tai Miinusta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMISTAJA\source\repos\Plussaa tai Miinusta\Plussaa tai Miinusta\obj\Debug\net8.0\Plussaa tai Miinusta.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\Plussaa tai Miinusta\Plussaa tai Miinusta\obj\Debug\net8.0\Plussaa tai Miinusta.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\Plussaa tai Miinusta\Plussaa tai Miinusta\obj\Debug\net8.0\Plussaa tai Miinusta.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\Plussaa tai Miinusta\Plussaa tai Miinusta\obj\Debug\net8.0\Plussaa tai Miinusta.dll
+C:\Users\OMISTAJA\source\repos\Plussaa tai Miinusta\Plussaa tai Miinusta\obj\Debug\net8.0\refint\Plussaa tai Miinusta.dll
+C:\Users\OMISTAJA\source\repos\Plussaa tai Miinusta\Plussaa tai Miinusta\obj\Debug\net8.0\Plussaa tai Miinusta.pdb
+C:\Users\OMISTAJA\source\repos\Plussaa tai Miinusta\Plussaa tai Miinusta\obj\Debug\net8.0\Plussaa tai Miinusta.genruntimeconfig.cache
+C:\Users\OMISTAJA\source\repos\Plussaa tai Miinusta\Plussaa tai Miinusta\obj\Debug\net8.0\ref\Plussaa tai Miinusta.dll
