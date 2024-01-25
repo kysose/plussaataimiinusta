@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Plussaa tai Miinusta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a15b52abde4b3840ddb3e6a213f837371b0ba1b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Plussaa tai Miinusta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Plussaa tai Miinusta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

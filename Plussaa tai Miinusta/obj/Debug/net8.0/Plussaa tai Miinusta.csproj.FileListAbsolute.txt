@@ -12,3 +12,4 @@ C:\Users\OMISTAJA\source\repos\Plussaa tai Miinusta\Plussaa tai Miinusta\obj\Deb
 C:\Users\OMISTAJA\source\repos\Plussaa tai Miinusta\Plussaa tai Miinusta\obj\Debug\net8.0\Plussaa tai Miinusta.pdb
 C:\Users\OMISTAJA\source\repos\Plussaa tai Miinusta\Plussaa tai Miinusta\obj\Debug\net8.0\Plussaa tai Miinusta.genruntimeconfig.cache
 C:\Users\OMISTAJA\source\repos\Plussaa tai Miinusta\Plussaa tai Miinusta\obj\Debug\net8.0\ref\Plussaa tai Miinusta.dll
+C:\Users\OMISTAJA\source\repos\Plussaa tai Miinusta\Plussaa tai Miinusta\obj\Debug\net8.0\Plussaa tai Miinusta.sourcelink.json
